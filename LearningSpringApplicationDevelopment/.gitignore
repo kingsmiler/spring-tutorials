@@ -37,6 +37,7 @@ local.properties
 # sbteclipse plugin
 .target
 **/target
+**/build
 
 # TeXlipse plugin
 .texlipse
